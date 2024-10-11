@@ -53,7 +53,6 @@ repositories {
 }
 
 dependencies {
-  //needed to use the job dispatcher without
   implementation files('libs/firebase-jobdispatcher-0.8.5.aar')
   implementation 'com.facebook.react:react-native:+'
   implementation 'androidx.annotation:annotation:1.1.0'
